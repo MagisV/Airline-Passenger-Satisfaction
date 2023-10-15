@@ -1,4 +1,4 @@
-# Airline-Passenger-Satisfaction-Data
+# Predicting Airline Passenger Satisfaction
 
 Notebooks and Data for participants of the Introduction to Data Science Hackathon.  
 ## Workbook
